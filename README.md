@@ -50,5 +50,9 @@ yolo-streamlit-app/
 
 ▶️ Watch the full demo here:  
 
+https://github.com/user-attachments/assets/937e5e19-ae2c-4e37-abae-3adf6c50ec17
+
+
+
 
 
