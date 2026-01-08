@@ -34,6 +34,9 @@ yolo-streamlit-app/
 ├── README.md
 ├── yolo11n.pt
 
+## 🌐 Live Demo
+👉 *Streamlit App:
+[https://imagedetectionmodel-8q3ysjpevywtanmxscfsbf.streamlit.app/]
 
 ## Project Output
 
